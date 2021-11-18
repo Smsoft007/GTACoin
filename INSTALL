@@ -1,0 +1,9 @@
+Building Gtaccoin
+
+See doc/readme-qt.rst for instructions on building Gtaccoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Gtaccoin.
+
+See doc/build-*.txt for instructions on building gtaccoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Gtaccoin.
